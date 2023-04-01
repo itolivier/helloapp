@@ -1,2 +1,2 @@
 # war-hello
-Simple application for test Dockerfile Multistage
+Simple application to test  Multi-stages Dockerfile
